@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<paths xmlns:android="http://schemas.android.com/apk/res/android">
+    <files-path
+        name="intern_Files"
+        path="/" />
+    <cache-path
+        name="intern_Cache"
+        path="/" />
+    <external-path
+        name="extern"
+        path="/" />
+    <external-files-path
+        name="extern_Files"
+        path="/" />
+    <external-cache-path
+        name="extern_Cache"
+        path="/" />
+    <external-media-path
+        name="extern_Med"
+        path="/" />
+    <external-path
+        name="my_images"
+        path="Android/data/com.example.package.name/files/Pictures" />
+</paths>

@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">SnapPassport</string>
+    <string name="sendPhotoButton">Send Photo</string>
+    <string name="app_permission_text">Location and Storage access is needed.</string>
+</resources>
